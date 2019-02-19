@@ -1,0 +1,11 @@
+tabstop
+tab_attribute
+tab_var
+tab_var_ahk
+tab_var_ahk_definition
+tab_var_ejs
+tab_var_js
+tab_var_php
+tabstop_inactive
+tabstop_inactive_replace_fn
+tabstop_nested_fn

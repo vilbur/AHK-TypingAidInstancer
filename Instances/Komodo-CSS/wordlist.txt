@@ -1,0 +1,160 @@
+﻿background_color|R|bgC
+background_image|R|bgi
+brd
+clr
+comm
+display_block
+display_none
+font-size|R|fs
+font-weight|R|fw
+font_uppercase
+margin-auto|R|ma
+margin-bottom|R|mb
+margin-left|R|ml
+margin-right|R|mr
+margin-top|R|mt
+margin|R|m
+media
+padding-top|R|pdt
+padding|R|pd
+pos
+trans
+
+primary	|R|$primary
+info	|R|$info
+success	|R|$success
+warning	|R|$warning
+danger	|R|$danger
+light	|R|$light
+dark	|R|$dark
+orange-invert	|R|$orange-invert
+yellow-invert	|R|$yellow-invert
+green-invert	|R|$green-invert
+turquoise-invert|R|$turquoise-invert
+cyan-invert    	|R|$cyan-invert
+blue-invert    	|R|$blue-invert
+purple-invert	|R|$purple-invert
+red-invert    	|R|$red-invert
+primary-invert	|R|$primary-invert
+info-invert    	|R|$info-invert
+success-invert	|R|$success-invert
+warning-invert	|R|$warning-invert
+danger-invert	|R|$danger-invert
+light-invert	|R|$light-invert
+dark-invert    	|R|$dark-invert
+background    	|R|$background
+border        	|R|$border
+border-hover	|R|$border-hover
+text        	|R|$text
+text-invert    	|R|$text-invert
+text-light    	|R|$text-light
+text-strong    	|R|$text-strong
+code        	|R|$code
+code-background	|R|$code-background
+pre            	|R|$pre
+pre-background	|R|$pre-background
+
+
+
+family-primary	|R|$family-primary
+family-code	|R|$family-code
+size-small	|R|$size-small
+size-normal	|R|$size-normal
+size-medium	|R|$size-medium
+size-large	|R|$size-large
+colors	|R|$colors
+shades	|R|$shades
+sizes	|R|$sizes
+
+link            	|R|$link
+link-invert        	|R|$link-invert
+link-visited    	|R|$link-visited
+link-hover        	|R|$link-hover
+link-hover-border	|R|$link-hover-border
+link-focus        	|R|$link-focus
+link-focus-border	|R|$link-focus-border
+link-active        	|R|$link-active
+link-active-border	|R|$link-active-border
+
+nav-background-color                    		|R|$navbar-background-color
+nav-height                              		|R|$navbar-height
+nav-item-color                          		|R|$navbar-item-color
+nav-item-hover-color                    		|R|$navbar-item-hover-color
+nav-item-hover-background-color         		|R|$navbar-item-hover-background-color
+nav-item-active-color                   		|R|$navbar-item-active-color
+nav-item-active-background-color        		|R|$navbar-item-active-background-color
+nav-item-img-max-height                 		|R|$navbar-item-img-max-height
+nav-tab-hover-background-color          		|R|$navbar-tab-hover-background-color
+nav-tab-hover-border-bottom-color       		|R|$navbar-tab-hover-border-bottom-color
+nav-tab-active-color                    		|R|$navbar-tab-active-color
+nav-tab-active-background-color         		|R|$navbar-tab-active-background-color
+nav-tab-active-border-bottom-color      		|R|$navbar-tab-active-border-bottom-color
+nav-tab-active-border-bottom-style      		|R|$navbar-tab-active-border-bottom-style
+nav-tab-active-border-bottom-width      		|R|$navbar-tab-active-border-bottom-width
+nav-dropdown-background-color           		|R|$navbar-dropdown-background-color
+nav-dropdown-border-top                 		|R|$navbar-dropdown-border-top
+nav-dropdown-offset                     		|R|$navbar-dropdown-offset
+nav-dropdown-arrow                      		|R|$navbar-dropdown-arrow
+nav-dropdown-radius                     		|R|$navbar-dropdown-radius
+nav-dropdown-z                          		|R|$navbar-dropdown-z
+nav-dropdown-boxed-radius               		|R|$navbar-dropdown-boxed-radius
+nav-dropdown-boxed-shadow               		|R|$navbar-dropdown-boxed-shadow
+nav-dropdown-item-hover-color           		|R|$navbar-dropdown-item-hover-color
+nav-dropdown-item-hover-background-color		|R|$navbar-dropdown-item-hover-background-color
+nav-dropdown-item-active-color          		|R|$navbar-dropdown-item-active-color
+nav-dropdown-item-active-background-color		|R|$navbar-dropdown-item-active-background-color
+nav-divider-background-color            		|R|$navbar-divider-background-color		
+
+
+
+tabs-border-bottom-color          		|R|$tabs-border-bottom-color
+tabs-border-bottom-style          		|R|$tabs-border-bottom-style
+tabs-border-bottom-width          		|R|$tabs-border-bottom-width                           	
+tabs-link-color                   		|R|$tabs-link-color
+tabs-link-hover-border-bottom-color		|R|$tabs-link-hover-border-bottom-color
+tabs-link-hover-color             		|R|$tabs-link-hover-color
+tabs-link-active-border-bottom-color	|R|$tabs-link-active-border-bottom-color
+tabs-link-active-color            		|R|$tabs-link-active-color
+tabs-link-padding                 		|R|$tabs-link-padding
+
+
+tabs-boxed-link-radius                    	|R|$tabs-boxed-link-radius
+tabs-boxed-link-hover-background-color    	|R|$tabs-boxed-link-hover-background-color
+tabs-boxed-link-hover-border-bottom-color	|R|$tabs-boxed-link-hover-border-bottom-color
+tabs-boxed-link-active-background-color    	|R|$tabs-boxed-link-active-background-color
+tabs-boxed-link-active-border-color        	|R|$tabs-boxed-link-active-border-color
+tabs-boxed-link-active-border-bottom-color	|R|$tabs-boxed-link-active-border-bottom-color
+                                    	
+tabs-toggle-link-border-color            	|R|$tabs-toggle-link-border-color
+tabs-toggle-link-border-style            	|R|$tabs-toggle-link-border-style
+tabs-toggle-link-border-width            	|R|$tabs-toggle-link-border-width
+tabs-toggle-link-hover-background-color    	|R|$tabs-toggle-link-hover-background-color
+tabs-toggle-link-hover-border-color        	|R|$tabs-toggle-link-hover-border-color
+tabs-toggle-link-radius                    	|R|$tabs-toggle-link-radius
+tabs-toggle-link-active-background-color	|R|$tabs-toggle-link-active-background-color
+tabs-toggle-link-active-border-color    	|R|$tabs-toggle-link-active-border-color
+tabs-toggle-link-active-color            	|R|$tabs-toggle-link-active-color
+
+
+background_color|R|bgC
+background_image|R|bgi
+brd
+clr
+comm
+display_block
+display_none
+font-size|R|fs
+font-weight|R|fw
+font_uppercase
+margin-auto|R|ma
+margin-bottom|R|mb
+margin-left|R|ml
+margin-right|R|mr
+margin-top|R|mt
+margin|R|m
+media
+padding-top|R|pdt
+padding|R|pd
+pos
+trans
+

@@ -1,0 +1,4 @@
+unit|R|phpunit
+unit|R|phpunit --testsuite Unit
+unit|R|phpunit --testsuite Database
+unit|R|phpunit packages/vilbur/

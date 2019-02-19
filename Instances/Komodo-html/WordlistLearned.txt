@@ -1,0 +1,6 @@
+﻿false
+index
+shown
+wides
+return
+tables

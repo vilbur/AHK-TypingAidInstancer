@@ -1,0 +1,13 @@
+dump auto-load|R|composer dump-autoload
+project|R|composer create-project laravel/laravel project_name
+require|R|composer require
+install|R|composer install
+update|R|composer update
+dump-autoload|R|composer dump-autoload [--optimize]
+self-update|R|composer self-update
+key|R|php artisan key:generate
+
+
+require dev|R|composer require vilbur/ @dev
+require|R|composer require
+remove|R|composer remove

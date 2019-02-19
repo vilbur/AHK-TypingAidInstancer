@@ -1,0 +1,33 @@
+artisan|R|php artisan
+
+cache:clear|R|php artisan cache:clear
+
+migrate              		|R|php artisan migrate
+migrate:rollback     		|R|php artisan migrate:rollback
+migrate:reset        		|R|php artisan migrate:reset
+migrate:make         		|R|php artisan make:migration create_TABLENAME_table
+migrate:refresh      		|R|php artisan migrate:refresh
+migrate:generate     		|R|php artisan migrate:generate table_name
+migrate:generate:pivot		|R|php artisan make:migration:pivot table_name_A table_name_B
+
+
+seed                       		|R|php artisan db:seed
+seed class                 		|R|php artisan db:seed --class=
+seed generate              		|R|php artisan iseed table_name
+seed generate Voyager tables		|R|php artisan iseed data_types,data_rows,menus,menu_items,roles,permissions,permission_role,settings
+seed make                  		|R|php artisan make:seeder TableNameSeeder
+
+controller:make|R|php artisan make:controller
+
+model generate 	|R|php artisan krlove:generate:model ModelName
+model generate table	|R|php artisan krlove:generate:model ModelName --table-name=table_name
+
+publish 	|R|php artisan vendor:publish
+publish package	|R|php artisan vendor:publish --provider="vilbur\package\packageServiceProvider"
+
+voyager|R|php artisan voyager:install
+
+tinker|R|php artisan tinker config.tinker.php
+
+storage link|R|php artisan storage:link
+

@@ -1,0 +1,5 @@
+ahk_id
+ahk_class
+ahk_id
+ahk_pid
+ahk_group

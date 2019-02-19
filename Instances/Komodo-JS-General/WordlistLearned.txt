@@ -1,0 +1,13 @@
+﻿index
+label
+.test
+value
+return
+element
+window
+parent
+array
+vilbur
+append
+.append
+delete

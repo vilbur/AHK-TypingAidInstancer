@@ -1,0 +1,20 @@
+add	|R|git add .
+branch	|R|git branch
+commit	|R|git commit -a -m ""
+fetch	|R|git fetch --all
+init	|R|git init &&git config core.ignorecase false
+merge	|R|git merge
+push	|R|git push origin master
+pull	|R|git pull origin master
+status	|R|git status
+tags	|R|git push origin master --tags
+case	|R|git config core.ignorecase false
+reset	|R|git reset --hard origin/master
+
+
+remote	|R|git remote -v
+remote add-url	|R|git remote add origin url
+remote set-url	|R|git remote set-url origin url
+
+git email	|R|git config --global user.email "cerny.vil@gmail"
+git username	|R|git config --global user.name "vilbur"

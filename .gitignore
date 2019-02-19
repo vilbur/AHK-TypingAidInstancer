@@ -1,0 +1,3 @@
+*.bak
+.komodotools
+Lib/Install/TypingAid/Original_Package/*

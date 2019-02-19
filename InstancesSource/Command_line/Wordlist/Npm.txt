@@ -1,0 +1,6 @@
+watch|R|npm run watch
+npm run dev|R|php artisan cache:clear &&npm run dev
+run|R|php artisan cache:clear &&npm run dev
+
+npm run dev
+npm install
