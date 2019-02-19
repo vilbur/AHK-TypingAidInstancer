@@ -1,4 +1,4 @@
-﻿artisan|R|php artisan
+artisan|R|php artisan
 
 cache:clear|R|php artisan cache:clear
 

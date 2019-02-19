@@ -1,4 +1,6 @@
 axios
+sheet_active
+spread_active
 arrConcat
 arrCopyWithin
 arrEntries
@@ -30,6 +32,7 @@ arrToString
 arrUnique
 arrUnshift
 arrValues
+arr_create_integers
 arrArr|R|arr
 arrDifference|R|difference
 arrFlattern|R|flattern
@@ -52,10 +55,13 @@ logClear
 logo
 logs
 logv
+cookieGet
+cookieSet
 fori
 fori_reverse
 forik
 foriO
+fnO
 pFn
 prFn
 sFn

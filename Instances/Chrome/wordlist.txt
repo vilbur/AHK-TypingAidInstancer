@@ -1,4 +1,4 @@
-﻿test_chrome_1
+test_chrome_1
 
 test_chrome_2
 

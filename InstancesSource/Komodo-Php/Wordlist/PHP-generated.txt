@@ -15,6 +15,7 @@ path_extension
 path_filename
 pathinfo
 fore
+fori
 prFn
 pFn
 pfnc
@@ -113,6 +114,7 @@ prop
 str_replace
 php
 use
+gettype
 getLaravelPath
 getNamespace
 getNamespaceV2

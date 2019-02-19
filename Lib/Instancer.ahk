@@ -6,8 +6,8 @@ setWorkingDir,  %A_LineFile%\..\..\
 */
 #Include %A_LineFile%\..\..\Ahk-Lib\File\File.ahk
 #Include %A_LineFile%\..\..\Ahk-Lib\Clip\Clip.ahk  
-#Include %A_LineFile%\..\..\..\..\Lib\Ini\INI.ahk
-#Include %A_LineFile%\..\..\..\..\Lib\Array\Arr.ahk
+#Include %A_LineFile%\..\..\Ahk-Lib\Ini\INI.ahk
+#Include %A_LineFile%\..\..\Ahk-Lib\Array\Arr.ahk
 
 /* TypingAidInstancer include
 */

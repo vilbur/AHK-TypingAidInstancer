@@ -1,4 +1,4 @@
-﻿blaNote|R|@note
+blaNote|R|@note
 blaFor|R|@For
 blaFore|R|@Fore
 blaForelse|R|@Forelse
@@ -42,6 +42,7 @@ path_extension
 path_filename
 pathinfo
 fore
+fori
 prFn
 pFn
 pfnc
@@ -140,6 +141,7 @@ prop
 str_replace
 php
 use
+gettype
 getLaravelPath
 getNamespace
 getNamespaceV2

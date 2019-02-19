@@ -1,4 +1,6 @@
-﻿axios
+axios
+sheet_active
+spread_active
 arrConcat
 arrCopyWithin
 arrEntries
@@ -30,6 +32,7 @@ arrToString
 arrUnique
 arrUnshift
 arrValues
+arr_create_integers
 arrArr|R|arr
 arrDifference|R|difference
 arrFlattern|R|flattern
@@ -52,10 +55,13 @@ logClear
 logo
 logs
 logv
+cookieGet
+cookieSet
 fori
 fori_reverse
 forik
 foriO
+fnO
 pFn
 prFn
 sFn
@@ -146,6 +152,7 @@ class_ko_extension_singleton
 clip_get
 clip_set
 cmd_komodo
+cmd_run
 cmd_run_get_result
 cmd_vim
 confirm|R|conf
@@ -159,8 +166,10 @@ file_current_dir
 file_current_extension
 file_current_name
 file_current_path
+file_current_path_macro
 file_current_uri
 dir_create
+file_browse
 file_close_save
 file_copy
 file_create
@@ -175,6 +184,7 @@ file_run
 file_search
 file_search_in_path
 file_write
+files_opened
 file_content
 file_content_go_end
 file_content_go_start
@@ -197,6 +207,7 @@ line_from_position
 line_go_end
 line_go_start
 line_go_start_smart
+line_length
 line_new
 line_count
 line_delete
@@ -206,10 +217,11 @@ line_go_to
 line_go_up
 line_index
 line_index_get
-line_length
 line_text
 pos_get
 pos_set
+pos_set_cursor
+pos_from_line
 pos_get_anchor
 pref_get_boolean
 pref_get_number
@@ -238,23 +250,12 @@ selection_all
 selection_get
 selection_replace
 selection_set
-undo
+selection_set_by_line
 interpolate
 view_set_focus
 word_under_cursor_get
 word_under_cursor_get_position
 word_under_cursor_select
--ejs_snippet_ZKONTROLOVAT_CO_TO_JE|R|-ejs_snippet_ZKONTROLOVAT CO TO JE
-ejs
-ejs_comma
-ejs_else
-ejs_fn
-ejs_i
-ejs_if
-ejs_param
-ejs_rx
-ejs_string
-ejs_tabstop_remove_|R|ejs_tabstop_remove~
 log|R|unused - koLog
 log_Clear|R|unused - koLogC
 log_Function|R|unused - koLogFn
@@ -267,6 +268,7 @@ koDom
 koEditor
 koFile
 koPrefs
+koShell
 koWin
 Logger
 logg

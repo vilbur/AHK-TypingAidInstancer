@@ -18,8 +18,8 @@ Class Hardlink {
 	/** createMainFolders
 	*/
 	createHardlinks(){
-		File(this.typing_aid_original_path "\\Lib").hardlink(this.path_variation "\\Lib")
-		File(this.typing_aid_original_path "\\Includes").hardlink(this.path_variation "\\Includes")		
+		;File(this.typing_aid_original_path "\\Lib").hardlink(this.path_variation "\\Lib")
+		;File(this.typing_aid_original_path "\\Includes").hardlink(this.path_variation "\\Includes")		
 		;FileCreateDir, % this.path_variation
 		;return this
 	}

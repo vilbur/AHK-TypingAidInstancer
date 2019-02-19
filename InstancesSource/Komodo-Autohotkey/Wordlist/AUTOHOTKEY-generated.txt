@@ -56,8 +56,17 @@ ins
 A_LineFile
 new
 ClipSet
+Control_EditPaste
+ControlFocus
 ControlGetFocus
 ControlGetHwnd
+ControlSelText
+ControlSend
+ControlFocusedGet
+ControlFocusedGetClassNN
+ControlFocusedGetControlList
+ControlFocusedGetHwnd
+ControlFocusedGetText
 Drive
 Driveget
 Drivespacefree
@@ -82,6 +91,7 @@ Filesettime
 Ifnotexist
 Setworkingdir
 FileAppend
+FileAppendMultiLine
 FileCopy
 FileCopyDir
 FileCreateDir
@@ -121,6 +131,8 @@ IniDelete
 IniRead
 IniRead_section
 IniWrite
+key_block
+key_delay
 key_state
 File|D|Extends Path
 File.clear|R|File_clear
@@ -165,6 +177,7 @@ Path.parentDirName|R|Path_parentDirName
 Path.relative|R|Path_relative
 Path.split|R|Path_split
 Path
+mMode
 conf
 MsgBox
 MsgBox_input
@@ -187,6 +200,7 @@ runCmd
 runCmdResult
 RunWait
 setx
+Send-1|R|Send
 DeregisterWindowMessage
 RegisterShellHookWindow
 sleep|R|RegisterShellHookWindow
@@ -206,6 +220,7 @@ substring_right|R|subsR
 string_trim_whitespace|R|subsR
 StringTrimLeft|R|strTrL
 StringTrimRight|R|strTrR
+sel_text
 Gui.Button|R|Gui_Button
 Gui.Callback|R|Gui_Callback
 Gui.Checkbox|R|Gui_Checkbox
@@ -220,9 +235,16 @@ Gui.Tabs|R|Gui_Tabs
 Gui|D|VilGUI
 isNotNumber
 isNumber
+DisableCloseButton
+GroupActivate
+GroupAdd
+GroupCount
+GroupLoop
 StatusBarGetText
 WinActivate
 WinActive
+WinClose
+WinCloseGroup
 WinExist
 WinGetActiveTitle
 WinGetClass
@@ -230,8 +252,6 @@ WinGetHwnd
 WinGetLIst
 WinGetPos
 WinGetTitle
-WinGroupGet
-WinGroupGet_count
 WinMaximize
 WinMinimize
 WinMove

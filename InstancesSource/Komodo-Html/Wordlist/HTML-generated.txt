@@ -16,4 +16,5 @@ transition
 vfor
 vfori
 vif
+vclick
 von
