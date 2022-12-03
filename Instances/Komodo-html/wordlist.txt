@@ -1,4 +1,4 @@
-btnIs-small|R|is-small
+﻿btnIs-small|R|is-small
 btnIs-medium|R|is-medium
 btnIs-large|R|is-large
 

@@ -1,0 +1,3 @@
+vue ui
+vue new project |R|npx "vue/cli create [project-name]
+vue add browser-extension

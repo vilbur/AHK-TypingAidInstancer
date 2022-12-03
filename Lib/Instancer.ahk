@@ -5,7 +5,7 @@ setWorkingDir,  %A_LineFile%\..\..\
 /* Ahk-Lib includes
 */
 #Include %A_LineFile%\..\..\Ahk-Lib\File\File.ahk
-#Include %A_LineFile%\..\..\Ahk-Lib\Clip\Clip.ahk  
+#Include %A_LineFile%\..\..\Ahk-Lib\Clip\Clip.ahk
 #Include %A_LineFile%\..\..\Ahk-Lib\Ini\INI.ahk
 #Include %A_LineFile%\..\..\Ahk-Lib\Array\Arr.ahk
 
@@ -29,7 +29,7 @@ Class Instancer {
 	instances	:= A_LineFile "\..\..\Instances"
 	tray_refresh	:= A_LineFile "\..\System\SystemTrayRefresh.exe"
 	path_icon	:= A_LineFile "\..\Icons\TypingAidInstancer.ico"
-	
+
 	__New(){
 		this._traySet()
 		this._installShellHook()

@@ -1,4 +1,4 @@
-artisan|R|php artisan
+﻿artisan|R|php artisan
 
 cache:clear|R|php artisan cache:clear
 
@@ -64,9 +64,13 @@ unit|R|phpunit --testsuite Unit
 unit|R|phpunit --testsuite Database
 unit|R|phpunit packages/vilbur/
 
+vue ui
+vue new project |R|npx "vue/cli create [project-name]
+vue add browser-extension
 yarn add
 yarn remove
 yarn upgrade [package] --latest
+yarn info [package]
 dump auto-load|R|composer dump-autoload
 project|R|composer create-project laravel/laravel project_name
 require|R|composer require

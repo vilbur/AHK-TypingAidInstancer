@@ -1,3 +1,4 @@
 yarn add
 yarn remove
 yarn upgrade [package] --latest
+yarn info [package]

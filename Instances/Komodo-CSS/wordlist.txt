@@ -1,4 +1,4 @@
-background_color|R|bgC
+﻿background_color|R|bgC
 background_image|R|bgi
 brd
 clr

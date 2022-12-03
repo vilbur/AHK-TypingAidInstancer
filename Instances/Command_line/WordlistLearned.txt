@@ -20,3 +20,5 @@ C:\GoogleDrive\Portfolio\Personal\Alfa Romeo C8 Spyder 2.jpg
 Alfa Romeo C8 Spyder 2
 C:\wamp64\www\portfolio\node_modules\font-awesome\scss\font-awesome.scss
 C:\GoogleDrive\TotalComander\_TC-commands\Test.ahk
+npx @vue/cli create weather-app
+start

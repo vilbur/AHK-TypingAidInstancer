@@ -19,7 +19,8 @@ class _Array {
 
     test() {
 		;return % "test _Array"
-		Dump(this, "TEST", 1)
+		MsgBox,262144,, _Array.test(),2
+		;Dump(this, "TEST", 1)
         ;return Round(this.MaxIndex()) ; Round() turns "" into 0.
     }
 	/** remove by index

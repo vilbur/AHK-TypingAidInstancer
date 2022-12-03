@@ -1,4 +1,4 @@
-blaNote|R|@note
+﻿blaNote|R|@note
 blaFor|R|@For
 blaFore|R|@Fore
 blaForelse|R|@Forelse
